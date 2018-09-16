@@ -4,8 +4,10 @@ var letra3;
 var letra4;
 
 function preload () {
-  artefato = loadStrings("artefato.txt");
-  caracteristica = loadStrings("caracteristica.txt");
+  artefato = loadStrings("artefatomasculino.txt");
+  artefata = loadStrings("artefatofeminino.txt")
+  carf = loadStrings("caracteristicafeminina.txt");
+  carm = loadStrings("caracteristicamasculina.txt");
   efeito = loadStrings("efeito.txt");
   gatilho = loadStrings("gatilho.txt");
 
@@ -14,15 +16,22 @@ function preload () {
 function setup() {
 	createCanvas(800,800);
   background(255,60,100);
-  console.log(letra1);
-  console.log(letra2);
-  console.log(letra3);
-  console.log(letra4);
+
 }
 
 function mouseClicked() {
-	var linha1 = random(artefato)
-	var linha2 = random(caracteristica)
+  var artefatx = random(100)
+  if (artefatx > 50) {
+    var linha1 = random(artefato)
+  } else {
+    var linha1 = random(artefata)
+  }
+  if (artefatx > 50) {
+    var linha2 = random(carm)
+      } else {
+    var linha2 = random(carf)
+  }
+
 	var linha3 = random(efeito)
 	var linha4 = random(gatilho)
 
