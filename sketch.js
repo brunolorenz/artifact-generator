@@ -21,7 +21,7 @@ function setup() {
 
 }
 
-function mouseClicked() {
+function touchStarted() {
   var artefatx = random(100)
   if (artefatx > 50) {
     var linha1 = random(artefato)
