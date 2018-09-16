@@ -2,6 +2,7 @@ amarela
 verde
 com texturas
 rabiscada
+rabiscado 
 de madeira
 de acrílico
 brilhante
