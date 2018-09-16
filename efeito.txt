@@ -23,3 +23,7 @@ chora
 suspira
 assovia uma canção
 imita um pássaro
+dita um poema
+sussura
+sussura um poema
+sussura um lamento

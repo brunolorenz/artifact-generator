@@ -4,6 +4,7 @@ var letra3;
 var letra4;
 
 function preload () {
+  myFont = loadFont('assets/BreeSerif-Regular.ttf')
   artefato = loadStrings("artefatomasculino.txt");
   artefata = loadStrings("artefatofeminino.txt")
   carf = loadStrings("caracteristicafeminina.txt");
@@ -15,7 +16,8 @@ function preload () {
 
 function setup() {
 	createCanvas(800,800);
-  background(255,60,100);
+  background(255);
+  text("Clique")
 
 }
 
@@ -37,6 +39,7 @@ function mouseClicked() {
 
 textSize(30);
 textStyle(BOLD);
+textFont(myFont);
 fill(0)
 background(255);
 text(linha1, 50, 120);
