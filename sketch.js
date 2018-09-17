@@ -20,7 +20,7 @@ function setup() {
   textFont(myFont);
   fill(31,31,122,100);
   textSize(20);
-  text("pressione a tela para gerar seu artefato",50,50,150);
+  text("no Ateliê de Artefatos Pós Normais da effêmera, basta pressionar a tela para criar seu próprio objeto",50,50,150);
 
 
 }
