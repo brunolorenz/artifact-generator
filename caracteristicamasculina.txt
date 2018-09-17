@@ -24,5 +24,3 @@ mofado
 bonito
 sensível
 alerta
-desdobra
-dobra 

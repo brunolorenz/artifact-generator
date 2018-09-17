@@ -23,5 +23,3 @@ mofada
 bonita
 sensível
 alerta
-dobra
-desdobra

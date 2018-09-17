@@ -59,3 +59,5 @@ brilha
 derrete
 avisa seus amigos
 avisa sua melhor amiga
+dobra
+desdobra
