@@ -53,8 +53,7 @@ text(linha3, 50, 200);
 fill(31,31,122,100);
 text(linha4, 50, 250, 400);
 
-var finalera = (linha1+linha2+linha3+linha4);
-var artefatofinal = splitTokens(finalera, ' ');
-saveStrings(finalera, "artefatos", "txt");
+var finalera = [linha1 + " " + linha2 + " " + linha3 + " " + linha4];
+save(finalera, 'artefatos.txt');
 
 }
