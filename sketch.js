@@ -37,17 +37,17 @@ function touchStarted() {
 	var linha3 = random(efeito)
 	var linha4 = random(gatilho)
 
-textSize(30);
+textSize(50);
 textStyle(BOLD);
 textFont(myFont);
 background(255);
 fill(31,31,122,255);
-text(linha1, 50, 120);
+text(linha1, 50, 100);
 fill(31,31,122,200);
 text(linha2, 50, 160);
 fill(31,31,122,150);
-text(linha3, 50, 200);
+text(linha3, 50, 220);
 fill(31,31,122,100);
-text(linha4, 50, 240, 250);
+text(linha4, 50, 300, 400);
 
 }
