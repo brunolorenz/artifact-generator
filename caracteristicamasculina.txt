@@ -1,8 +1,6 @@
-amarela
 verde
 com texturas
-rabiscada
-rabiscado 
+rabiscado
 de madeira
 de acrílico
 brilhante
@@ -14,3 +12,4 @@ silencioso
 cravejado de diamantes
 de borracha
 antigo
+animado
