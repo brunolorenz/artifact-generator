@@ -26,6 +26,9 @@ function setup() {
 }
 
 function touchStarted() {
+
+  var catalogo = random(9999);
+
   var artefatx = random(100)
   if (artefatx > 50) {
     var linha1 = random(artefato)
@@ -40,6 +43,7 @@ function touchStarted() {
 	var linha3 = random(efeito)
 	var linha4 = random(gatilho)
 
+
 textSize(40);
 textStyle(BOLD);
 textFont(myFont);
@@ -52,6 +56,10 @@ fill(31,31,122,150);
 text(linha3, 50, 200);
 fill(31,31,122,100);
 text(linha4, 50, 250, 400);
+
+textSize(12);
+fill(31,31,31,150);
+text("A R T E F A T O  P Ó S  N O R M A L   nº "+round(catalogo), 50, 50);
 
 saveCanvas('png', 'png');
 
