@@ -47,6 +47,4 @@ text(linha2, 50, 160);
 text(linha3, 50, 200);
 text(linha4, 50, 240);
 
-saveCanvas('png', 'png');
-
 }
