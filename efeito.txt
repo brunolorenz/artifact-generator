@@ -48,7 +48,7 @@ escurece
 diminui
 aumenta
 esconde-se
-tenta
+tenta partir
 te guia
 escreve haikais
 escreve contos
@@ -65,4 +65,4 @@ cristaliza
 entra em ponto de fusão
 gargalha
 ri
-simula um riso 
+simula um riso
