@@ -45,6 +45,6 @@ background(255);
 text(linha1, 50, 120);
 text(linha2, 50, 160);
 text(linha3, 50, 200);
-text(linha4, 50, 240);
+text(linha4, 50, 240, 250);
 
 }
