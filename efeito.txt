@@ -24,9 +24,9 @@ suspira
 assovia uma canção
 imita um pássaro
 dita um poema
-sussura
-sussura um poema
-sussura um lamento
+sussurra
+sussurra um poema
+sussurra um lamento
 produz estática
 grita
 berra
@@ -57,3 +57,5 @@ emerge
 imprime
 brilha
 derrete
+avisa seus amigos
+avisa sua melhor amiga
