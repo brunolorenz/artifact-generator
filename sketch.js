@@ -40,11 +40,14 @@ function touchStarted() {
 textSize(30);
 textStyle(BOLD);
 textFont(myFont);
-fill(0)
 background(255);
+fill(31,31,122,255);
 text(linha1, 50, 120);
+fill(31,31,122,200);
 text(linha2, 50, 160);
+fill(31,31,122,150);
 text(linha3, 50, 200);
+fill(31,31,122,100);
 text(linha4, 50, 240, 250);
 
 }
