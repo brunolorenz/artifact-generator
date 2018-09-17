@@ -24,3 +24,7 @@ mofado
 bonito
 sensível
 alerta
+desconfiado
+vibrante
+rachado
+herdado
