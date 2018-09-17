@@ -49,7 +49,7 @@ diminui
 aumenta
 esconde-se
 tenta
-guia
+te guia
 escreve haikais
 escreve contos
 cria novas palavras
