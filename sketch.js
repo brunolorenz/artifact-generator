@@ -17,7 +17,11 @@ function preload () {
 function setup() {
 	createCanvas(800,800);
   background(255);
-  text("Clique")
+  textFont(myFont);
+  fill(31,31,122,100);
+  textSize(20);
+  text("pressione a tela para gerar seu artefato",50,50,150);
+
 
 }
 
@@ -37,17 +41,17 @@ function touchStarted() {
 	var linha3 = random(efeito)
 	var linha4 = random(gatilho)
 
-textSize(50);
+textSize(40);
 textStyle(BOLD);
 textFont(myFont);
 background(255);
 fill(31,31,122,255);
 text(linha1, 50, 100);
 fill(31,31,122,200);
-text(linha2, 50, 160);
+text(linha2, 50, 150);
 fill(31,31,122,150);
-text(linha3, 50, 220);
+text(linha3, 50, 200);
 fill(31,31,122,100);
-text(linha4, 50, 300, 400);
+text(linha4, 50, 250, 400);
 
 }

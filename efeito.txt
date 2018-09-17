@@ -43,7 +43,10 @@ congela
 enlouquece
 aponta
 indica o caminho
-rouba
+rouba luz ambiente
+escurece
+diminui
+aumenta
 esconde-se
 tenta
 guia
