@@ -23,9 +23,6 @@ amarelado
 mofado
 bonito
 sensível
-alerta
-desconfiado
-vibrante
 rachado
 herdado
 dourado
@@ -39,5 +36,3 @@ amassado
 liso
 de cerâmica
 de metal
-viscoso
-molhado
