@@ -38,3 +38,4 @@ a sacola
 a mochila
 a fanzine
 a cafeteira
+a mesa de bar

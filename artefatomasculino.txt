@@ -40,3 +40,4 @@ o livro
 aquele livro
 o botton
 aquele óculos
+o sofá
