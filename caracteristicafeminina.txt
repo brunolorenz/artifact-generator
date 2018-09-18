@@ -33,3 +33,6 @@ escura
 dourada
 de barro
 de argila
+inflável
+escorregadia
+pesada

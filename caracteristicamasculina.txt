@@ -32,3 +32,6 @@ dourado
 prateado
 de barro
 de argila
+inflável
+escorregadio
+pesado
