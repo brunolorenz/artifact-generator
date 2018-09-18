@@ -84,7 +84,7 @@ nomeia uma estrela
 significa sua última emoção
 sugere uma nova emoção
 nomeia uma nova emoção
-detalha seus sentimentos
+analisa seus sentimentos
 cataloga seu sentimentos
 registra suas emoções
 faz uma rima
@@ -103,3 +103,4 @@ entra em sincronia com seu coração
 acompanha sua respiração
 guia seus olhos
 te pega pela mão
+esvazia
