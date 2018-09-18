@@ -17,12 +17,11 @@ animada
 de vidro
 envidraçada
 leve
-fofa
+macia
 amarelada
 mofada
 bonita
 sensível
-alerta
 desconfiada
 vibrante
 rachada
@@ -37,3 +36,7 @@ inflável
 escorregadia
 pesada
 amassada
+lisa
+de cerâmica
+de metal
+viscosa

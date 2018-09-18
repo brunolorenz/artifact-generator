@@ -54,7 +54,7 @@ escreve haikais
 escreve contos
 cria novas palavras
 emerge
-imprime
+imprime seu mapa astral
 brilha
 derrete
 avisa seus amigos

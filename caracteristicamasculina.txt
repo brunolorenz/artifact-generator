@@ -1,4 +1,4 @@
-verde
+esverdeado
 com texturas
 rabiscado
 de madeira
@@ -17,7 +17,7 @@ de vidro
 envidraçado
 de vidro opaco
 leve
-fofo
+macio
 antigo & embolorado
 amarelado
 mofado
@@ -36,3 +36,8 @@ inflável
 escorregadio
 pesado
 amassado
+liso
+de cerâmica
+de metal
+viscoso
+molhado
