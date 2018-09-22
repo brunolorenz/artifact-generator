@@ -53,4 +53,6 @@ seu óculos
 um rolo de fita
 o lápis
 o pincel
-o artefato 
+o artefato
+um elevador
+um bebedouro
