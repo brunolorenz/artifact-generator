@@ -40,4 +40,5 @@ da nossa vida
 furta-cor
 forte
 de couro
-espelhado 
+espelhado
+adesivo
