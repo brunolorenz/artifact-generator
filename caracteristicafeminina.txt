@@ -44,3 +44,7 @@ furta-cor
 de couro
 espelhada
 adesiva
+azulada
+avermelhada
+vermelha
+incolor
