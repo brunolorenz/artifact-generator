@@ -33,6 +33,7 @@ function windowResized() {
 function touchStarted() {
 
   var catalogo = random(9999);
+  var local = windowHeight/8;
 
   var artefatx = random(100)
   if (artefatx > 50) {
@@ -49,18 +50,18 @@ function touchStarted() {
 	var linha4 = random(gatilho)
 
 
-textSize(40);
+textSize(windowWidth/20);
 textStyle(BOLD);
 textFont(myFont);
 background(255);
 fill(31,31,122,255);
-text(linha1, 50, 100);
+text(linha1, 50, local+50);
 fill(31,31,122,200);
-text(linha2, 50, 150);
+text(linha2, 80, local+100);
 fill(31,31,122,150);
-text(linha3, 50, 200);
+text(linha3, 40, local+150);
 fill(31,31,122,100);
-text(linha4, 50, 250, 400);
+text(linha4, 50, local+200, windowWidth/2);
 
 textSize(12);
 fill(31,31,31,150);
