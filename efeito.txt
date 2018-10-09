@@ -81,7 +81,7 @@ brilha devagar
 pulsa
 racha
 nomeia uma estrela
-significa sua última emoção
+registra sua última emoção
 sugere uma nova emoção
 nomeia uma nova emoção
 analisa seus sentimentos
