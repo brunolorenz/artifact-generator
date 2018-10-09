@@ -54,3 +54,4 @@ iluminada pela lua
 esculpida
 quebrada
 laranja
+vazia

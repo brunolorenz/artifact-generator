@@ -116,3 +116,4 @@ re-escreve livros
 escreve um poema triste
 murmura uma rima breve
 se apaga
+fica transparente
