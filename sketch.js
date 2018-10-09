@@ -15,14 +15,19 @@ function preload () {
 }
 
 function setup() {
-	createCanvas(800,500);
+	createCanvas(windowWidth,windowHeight);
   background(255);
   textFont(myFont);
   fill(31,31,122,100);
   textSize(20);
   text("no Ateliê de Artefatos Pós Normais da effêmera, basta pressionar a tela para criar seu próprio objeto",50,50,150);
-  window.location.reload(true)
 
+}
+
+function windowResized() {
+  resizeCanvas(windowWidth, windowHeight);
+  background(255);
+  window.location.reload(true)
 }
 
 function touchStarted() {
