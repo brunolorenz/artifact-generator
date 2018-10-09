@@ -56,3 +56,4 @@ o pincel
 o artefato
 um elevador
 um bebedouro
+um boneco

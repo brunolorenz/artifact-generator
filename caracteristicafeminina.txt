@@ -51,3 +51,7 @@ incolor
 costurada
 cor de rosa
 iluminada pela lua
+esculpida
+quebrada
+laranja
+vazia
