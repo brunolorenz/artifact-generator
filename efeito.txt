@@ -24,9 +24,9 @@ suspira
 assovia uma canção
 imita um pássaro
 dita um poema
-sussura
-sussura um poema
-sussura um lamento
+sussurra
+sussurra um poema
+sussurra um lamento
 produz estática
 grita
 berra
@@ -48,12 +48,71 @@ escurece
 diminui
 aumenta
 esconde-se
-tenta
-guia
+tenta partir
+te guia
 escreve haikais
 escreve contos
 cria novas palavras
 emerge
-imprime
+imprime seu mapa astral
 brilha
 derrete
+avisa seus amigos
+avisa sua melhor amiga
+dobra
+desdobra
+cristaliza
+entra em ponto de fusão
+gargalha
+ri
+simula um riso
+dá esperança
+deseja "boa sorte!"
+diz "boa noite"
+silencia
+deixa de funcionar
+pára de funcionar
+desiste
+muda de cor
+segura as lágrimas
+reseta
+reinicia
+brilha devagar
+pulsa
+racha
+nomeia uma estrela
+significa sua última emoção
+sugere uma nova emoção
+nomeia uma nova emoção
+analisa seus sentimentos
+cataloga seu sentimentos
+registra suas emoções
+faz uma rima
+canta sua canção favorita
+desaparece
+vai embora
+se ilumina
+estremece
+infla
+revela sua história
+imprime a história da sua vida
+murmura sobre a vida
+reclama
+chora
+entra em sincronia com seu coração
+acompanha sua respiração
+guia seus olhos
+te pega pela mão
+esvazia
+muda de cor
+perde a cor
+conta uma história
+assovia uma melodia
+fotografa
+te interrompe
+grita com você
+te aconselha
+re-escreve livros
+escreve um poema triste
+murmura uma rima breve
+se apaga

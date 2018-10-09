@@ -15,17 +15,21 @@ function preload () {
 }
 
 function setup() {
-	createCanvas(800,800);
+	createCanvas(800,500);
   background(255);
   textFont(myFont);
   fill(31,31,122,100);
   textSize(20);
-  text("pressione a tela para gerar seu artefato",50,50,150);
-
+  text("no Ateliê de Artefatos Pós Normais da effêmera, basta pressionar a tela para criar seu próprio objeto",50,50,150);
+  var button = createButton("salvar");
+  button.mousePressed(salvarimg);
 
 }
 
 function touchStarted() {
+
+  var catalogo = random(9999);
+
   var artefatx = random(100)
   if (artefatx > 50) {
     var linha1 = random(artefato)
@@ -37,9 +41,9 @@ function touchStarted() {
       } else {
     var linha2 = random(carf)
   }
-
 	var linha3 = random(efeito)
 	var linha4 = random(gatilho)
+
 
 textSize(40);
 textStyle(BOLD);
@@ -54,4 +58,13 @@ text(linha3, 50, 200);
 fill(31,31,122,100);
 text(linha4, 50, 250, 400);
 
+textSize(12);
+fill(31,31,31,150);
+text("A R T E F A T O  P Ó S  N O R M A L   nº "+round(catalogo), 50, 50);
+
+
+}
+
+function salvarimg() {
+  saveCanvas('png', 'png');
 }
