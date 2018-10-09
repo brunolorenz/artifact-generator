@@ -21,8 +21,7 @@ function setup() {
   fill(31,31,122,100);
   textSize(20);
   text("no Ateliê de Artefatos Pós Normais da effêmera, basta pressionar a tela para criar seu próprio objeto",50,50,150);
-  var button = createButton("salvar");
-  button.mousePressed(salvarimg);
+  window.location.reload(true)
 
 }
 
@@ -65,6 +64,6 @@ text("A R T E F A T O  P Ó S  N O R M A L   nº "+round(catalogo), 50, 50);
 
 }
 
-function salvarimg() {
-  saveCanvas('png', 'png');
+function keyReleased() {
+  saveCanvas();
 }
